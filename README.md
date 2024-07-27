@@ -5,3 +5,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ## Projects
 
 ### 1. BG-Video
+
+### 2. Creative Loading Animation
