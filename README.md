@@ -27,3 +27,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 11. Scrollbar
 
 ### 12. Image Bg Text
+
+### 13. Page Scroll Indicator
