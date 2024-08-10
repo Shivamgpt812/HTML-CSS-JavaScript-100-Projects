@@ -33,3 +33,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 14. Heart
 
 ### 15. Background Color Changer
+
+### 16. Auto Text
