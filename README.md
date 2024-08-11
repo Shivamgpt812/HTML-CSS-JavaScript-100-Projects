@@ -35,3 +35,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 15. Background Color Changer
 
 ### 16. Auto Text
+
+### 17. Cursor
