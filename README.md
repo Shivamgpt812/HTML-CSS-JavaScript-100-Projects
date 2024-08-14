@@ -41,3 +41,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 18. Video Trailer Popup
 
 ### 19. Color Toggler
+
+### 20. Animated Navigation
