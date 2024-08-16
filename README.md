@@ -45,3 +45,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 20. Animated Navigation
 
 ### 21. Random Emojies
+
+### 22. Fade Out
