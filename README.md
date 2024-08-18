@@ -49,3 +49,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 22. Fade Out
 
 ### 23. Simple Calculator
+
+### 24. Copy and Move
