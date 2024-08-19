@@ -51,3 +51,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 23. Simple Calculator
 
 ### 24. Copy and Move
+
+### 25. Progress Steps
