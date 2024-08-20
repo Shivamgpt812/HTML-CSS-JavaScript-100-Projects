@@ -53,3 +53,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 24. Copy and Move
 
 ### 25. Progress Steps
+
+### 26. Popup Form
