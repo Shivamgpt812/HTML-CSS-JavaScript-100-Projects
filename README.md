@@ -69,3 +69,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 32. 3D Nav
 
 ### 33. Counter
+
+### 34. Text Formatter
