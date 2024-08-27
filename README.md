@@ -67,3 +67,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 31. Full Screen Navigation
 
 ### 32. 3D Nav
+
+### 33. Counter
