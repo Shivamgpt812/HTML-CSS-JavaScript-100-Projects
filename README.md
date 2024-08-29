@@ -73,3 +73,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 34. Text Formatter
 
 ### 35. Image Gallery
+
+### 36. Read More and Read Less
