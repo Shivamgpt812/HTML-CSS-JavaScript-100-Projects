@@ -85,3 +85,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 40. Accordions
 
 ### 41. Random Images Feed
+
+### 42. Random Quote
