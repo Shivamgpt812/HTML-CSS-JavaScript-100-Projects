@@ -93,3 +93,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 44. Interchangeable Background Color
 
 ### 45. Digital Clock
+
+### 46. Browse File Upload
