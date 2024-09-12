@@ -97,3 +97,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 46. Browse File Upload
 
 ### 47. Sticky Navbar
+
+### 48. Search and Highlight
