@@ -101,3 +101,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 48. Search and Highlight
 
 ### 49. Custom Range Slider
+
+### 50. Feedback
