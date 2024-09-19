@@ -107,3 +107,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 51. Eye Follow
 
 ### 52. Rounded Navbar
+
+### 53. CSS Clip Path Animation
