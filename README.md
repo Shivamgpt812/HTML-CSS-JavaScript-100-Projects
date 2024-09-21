@@ -111,3 +111,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 53. CSS Clip Path Animation
 
 ### 54. Mini Calendar
+
+### 55. Two Sides Scroll
