@@ -117,3 +117,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 56. Followers
 
 ### 57. Custom Cusrors
+
+### 58. Rotating Text
