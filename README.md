@@ -119,3 +119,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 57. Custom Cusrors
 
 ### 58. Rotating Text
+
+### 59. Background Image Carousel
