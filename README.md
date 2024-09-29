@@ -123,3 +123,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 59. Background Image Carousel
 
 ### 60. Modern Calculator
+
+### 61. Sidebar Animation
