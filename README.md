@@ -127,3 +127,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 61. Sidebar Animation
 
 ### 62. Rotating Image Gallery
+
+### 63. Password Strength Bg
