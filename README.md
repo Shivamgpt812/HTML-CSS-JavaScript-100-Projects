@@ -129,3 +129,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 62. Rotating Image Gallery
 
 ### 63. Password Strength Bg
+
+### 64. Gradient Generator
