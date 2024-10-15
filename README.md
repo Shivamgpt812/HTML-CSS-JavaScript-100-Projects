@@ -135,3 +135,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 65. Two Sided Form
 
 ### 66. Animated Search Bar
+
+### 67. Password Generator
