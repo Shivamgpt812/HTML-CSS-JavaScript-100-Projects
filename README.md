@@ -139,3 +139,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 67. Password Generator
 
 ### 68. Box Shadow Generator
+
+### 69. Deciaml To Binary Converter
