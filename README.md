@@ -145,3 +145,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 70. Captcha Project
 
 ### 71. Drag n Drop
+
+### 72. Update CSS Variables Using JavaScript
