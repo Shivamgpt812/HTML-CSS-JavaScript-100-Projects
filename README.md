@@ -149,3 +149,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 72. Update CSS Variables Using JavaScript
 
 ### 73. Light
+
+### 74. Tabed Navigation
