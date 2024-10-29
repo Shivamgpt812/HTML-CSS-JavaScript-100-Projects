@@ -153,3 +153,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 74. Tabed Navigation
 
 ### 75. Todo List
+
+### 76. Chuck Norris
