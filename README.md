@@ -157,3 +157,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 76. Chuck Norris
 
 ### 77. Random Cat Images
+
+### 78. Dad Jokes
