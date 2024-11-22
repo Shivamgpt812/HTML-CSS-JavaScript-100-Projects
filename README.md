@@ -165,3 +165,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 80. Live User Filter
 
 ### 81. Animated Images Website
+
+### 82. Emoji Catcher Game
