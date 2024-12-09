@@ -173,3 +173,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 84. BookList Project
 
 ### 85. Timer
+
+### 86. Typing Game
