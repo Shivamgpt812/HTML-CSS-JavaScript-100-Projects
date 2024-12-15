@@ -175,3 +175,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 85. Timer
 
 ### 86. Typing Game
+
+### 87. Shape Clicker Game
