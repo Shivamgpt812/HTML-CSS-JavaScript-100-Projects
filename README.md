@@ -177,3 +177,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 86. Typing Game
 
 ### 87. Shape Clicker Game
+
+### 88. World Counter
