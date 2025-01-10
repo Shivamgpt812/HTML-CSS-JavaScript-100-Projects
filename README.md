@@ -187,3 +187,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 91. Foody Landing Page
 
 ### 92. Coffee
+
+### 93. The Art
