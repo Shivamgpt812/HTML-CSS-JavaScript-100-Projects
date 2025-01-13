@@ -191,3 +191,5 @@ Welcome to the HTML-CSS-JAVASCRIPT 100 PROJECTS! 🎉 In this repository, I'll b
 ### 93. The Art
 
 ### 94. Hoodie
+
+### 95. Chairs
